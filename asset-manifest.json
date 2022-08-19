@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/411_wk5_day2_mapdispatchtoprops/static/css/main.bec189f3.css",
+    "main.js": "/411_wk5_day2_mapdispatchtoprops/static/js/main.4fe25c6f.js",
+    "index.html": "/411_wk5_day2_mapdispatchtoprops/index.html",
+    "main.bec189f3.css.map": "/411_wk5_day2_mapdispatchtoprops/static/css/main.bec189f3.css.map",
+    "main.4fe25c6f.js.map": "/411_wk5_day2_mapdispatchtoprops/static/js/main.4fe25c6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec189f3.css",
+    "static/js/main.4fe25c6f.js"
+  ]
+}
